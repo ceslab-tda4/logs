@@ -1,0 +1,593 @@
+
+ Number of subgraphs:1 , 129 nodes delegated out of 129 nodes 
+ 
+APP: Init ... !!!
+MEM: Init ... !!!
+MEM: Initialized DMA HEAP (fd=5) !!!
+MEM: Init ... Done !!!
+IPC: Init ... !!!
+IPC: Init ... Done !!!
+REMOTE_SERVICE: Init ... !!!
+REMOTE_SERVICE: Init ... Done !!!
+  1363.898978 s: GTC Frequency = 200 MHz
+APP: Init ... Done !!!
+  1363.899020 s:  VX_ZONE_INIT:Enabled
+  1363.899022 s:  VX_ZONE_ERROR:Enabled
+  1363.899024 s:  VX_ZONE_WARNING:Enabled
+  1363.900515 s:  VX_ZONE_INIT:[tivxInitLocal:145] Initialization Done !!!
+  1363.900553 s:  VX_ZONE_INIT:[tivxHostInitLocal:93] Initialization Done for HOST !!!
+)0[1;67r[m[4l[?7h[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[11;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[12;77H|
+ | Model Type: detection[13;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.95 ms[m   from  18    samples |
+ | total time[11;37H:     [0;10;1m   38.77 ms[m   from  17    samples |
+ | framerate[12;37H:     [0;10;1m   25.79 fps[m  from  17    samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.63 ms[m   from  19    samples |
+ | total time[19;37H:     [0;10;1m   53.05 ms[m   from  18    samples |
+ | framerate[20;37H:     [0;10;1m   18.85 fps[m  from  18    samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.51 ms[m   from  42    samples |
+ | total time[11;37H:     [0;10;1m   40.44 ms[m   from  41    samples |
+ | framerate[12;37H:     [0;10;1m   24.73 fps[m  from  41    samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.02 ms[m   from  46    samples |
+ | total time[19;37H:     [0;10;1m   44.07 ms[m   from  44    samples |
+ | framerate[20;37H:     [0;10;1m   22.69 fps[m  from  44    samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.34 ms[m   from  66    samples |
+ | total time[11;37H:     [0;10;1m   40.89 ms[m   from  65    samples |
+ | framerate[12;37H:     [0;10;1m   24.46 fps[m  from  65    samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    7.95 ms[m   from  70    samples |
+ | total time[19;37H:     [0;10;1m   43.24 ms[m   from  68    samples |
+ | framerate[20;37H:     [0;10;1m   23.13 fps[m  from  68    samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.25 ms[m   from  90    samples |
+ | total time[11;37H:     [0;10;1m   41.11 ms[m   from  89    samples |
+ | framerate[12;37H:     [0;10;1m   24.33 fps[m  from  89    samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.13 ms[m   from  94    samples |
+ | total time[19;37H:     [0;10;1m   42.82 ms[m   from  92    samples |
+ | framerate[20;37H:     [0;10;1m   23.35 fps[m  from  92    samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.21 ms[m   from  114   samples |
+ | total time[11;37H:     [0;10;1m   41.25 ms[m   from  113   samples |
+ | framerate[12;37H:     [0;10;1m   24.24 fps[m  from  113   samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.15 ms[m   from  118   samples |
+ | total time[19;37H:     [0;10;1m   42.59 ms[m   from  116   samples |
+ | framerate[20;37H:     [0;10;1m   23.48 fps[m  from  116   samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.18 ms[m   from  138   samples |
+ | total time[11;37H:     [0;10;1m   41.32 ms[m   from  137   samples |
+ | framerate[12;37H:     [0;10;1m   24.20 fps[m  from  137   samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.25 ms[m   from  142   samples |
+ | total time[19;37H:     [0;10;1m   42.43 ms[m   from  140   samples |
+ | framerate[20;37H:     [0;10;1m   23.57 fps[m  from  140   samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.17 ms[m   from  162   samples |
+ | total time[11;37H:     [0;10;1m   41.37 ms[m   from  161   samples |
+ | framerate[12;37H:     [0;10;1m   24.17 fps[m  from  161   samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.23 ms[m   from  166   samples |
+ | total time[19;37H:     [0;10;1m   42.26 ms[m   from  165   samples |
+ | framerate[20;37H:     [0;10;1m   23.66 fps[m  from  165   samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.15 ms[m   from  187   samples |
+ | total time[11;37H:     [0;10;1m   41.41 ms[m   from  185   samples |
+ | framerate[12;37H:     [0;10;1m   24.15 fps[m  from  185   samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.22 ms[m   from  190   samples |
+ | total time[19;37H:     [0;10;1m   42.18 ms[m   from  189   samples |
+ | framerate[20;37H:     [0;10;1m   23.71 fps[m  from  189   samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.14 ms[m   from  211   samples |
+ | total time[11;37H:     [0;10;1m   41.43 ms[m   from  209   samples |
+ | framerate[12;37H:     [0;10;1m   24.13 fps[m  from  209   samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.26 ms[m   from  214   samples |
+ | total time[19;37H:     [0;10;1m   42.13 ms[m   from  213   samples |
+ | framerate[20;37H:     [0;10;1m   23.74 fps[m  from  213   samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.12 ms[m   from  235   samples |
+ | total time[11;37H:     [0;10;1m   41.46 ms[m   from  233   samples |
+ | framerate[12;37H:     [0;10;1m   24.12 fps[m  from  233   samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.29 ms[m   from  239   samples |
+ | total time[19;37H:     [0;10;1m   42.09 ms[m   from  237   samples |
+ | framerate[20;37H:     [0;10;1m   23.76 fps[m  from  237   samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.11 ms[m   from  259   samples |
+ | total time[11;37H:     [0;10;1m   41.48 ms[m   from  258   samples |
+ | framerate[12;37H:     [0;10;1m   24.11 fps[m  from  258   samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.36 ms[m   from  263   samples |
+ | total time[19;37H:     [0;10;1m   42.04 ms[m   from  261   samples |
+ | framerate[20;37H:     [0;10;1m   23.79 fps[m  from  261   samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.11 ms[m   from  283   samples |
+ | total time[11;37H:     [0;10;1m   41.51 ms[m   from  282   samples |
+ | framerate[12;37H:     [0;10;1m   24.09 fps[m  from  282   samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.35 ms[m   from  287   samples |
+ | total time[19;37H:     [0;10;1m   42.02 ms[m   from  285   samples |
+ | framerate[20;37H:     [0;10;1m   23.80 fps[m  from  285   samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.11 ms[m   from  307   samples |
+ | total time[11;37H:     [0;10;1m   41.52 ms[m   from  306   samples |
+ | framerate[12;37H:     [0;10;1m   24.08 fps[m  from  306   samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.38 ms[m   from  311   samples |
+ | total time[19;37H:     [0;10;1m   41.99 ms[m   from  309   samples |
+ | framerate[20;37H:     [0;10;1m   23.82 fps[m  from  309   samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.10 ms[m   from  331   samples |
+ | total time[11;37H:     [0;10;1m   41.53 ms[m   from  330   samples |
+ | framerate[12;37H:     [0;10;1m   24.08 fps[m  from  330   samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.39 ms[m   from  335   samples |
+ | total time[19;37H:     [0;10;1m   41.97 ms[m   from  333   samples |
+ | framerate[20;37H:     [0;10;1m   23.83 fps[m  from  333   samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.10 ms[m   from  355   samples |
+ | total time[11;37H:     [0;10;1m   41.54 ms[m   from  354   samples |
+ | framerate[12;37H:     [0;10;1m   24.07 fps[m  from  354   samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.40 ms[m   from  359   samples |
+ | total time[19;37H:     [0;10;1m   41.95 ms[m   from  357   samples |
+ | framerate[20;37H:     [0;10;1m   23.84 fps[m  from  357   samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.09 ms[m   from  379   samples |
+ | total time[11;37H:     [0;10;1m   41.55 ms[m   from  378   samples |
+ | framerate[12;37H:     [0;10;1m   24.07 fps[m  from  378   samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.42 ms[m   from  383   samples |
+ | total time[19;37H:     [0;10;1m   41.93 ms[m   from  381   samples |
+ | framerate[20;37H:     [0;10;1m   23.85 fps[m  from  381   samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.09 ms[m   from  403   samples |
+ | total time[11;37H:     [0;10;1m   41.55 ms[m   from  402   samples |
+ | framerate[12;37H:     [0;10;1m   24.07 fps[m  from  402   samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.42 ms[m   from  407   samples |
+ | total time[19;37H:     [0;10;1m   41.95 ms[m   from  405   samples |
+ | framerate[20;37H:     [0;10;1m   23.84 fps[m  from  405   samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.09 ms[m   from  427   samples |
+ | total time[11;37H:     [0;10;1m   41.56 ms[m   from  426   samples |
+ | framerate[12;37H:     [0;10;1m   24.06 fps[m  from  426   samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.43 ms[m   from  431   samples |
+ | total time[19;37H:     [0;10;1m   41.90 ms[m   from  429   samples |
+ | framerate[20;37H:     [0;10;1m   23.87 fps[m  from  429   samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.10 ms[m   from  451   samples |
+ | total time[11;37H:     [0;10;1m   41.57 ms[m   from  450   samples |
+ | framerate[12;37H:     [0;10;1m   24.05 fps[m  from  450   samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.44 ms[m   from  455   samples |
+ | total time[19;37H:     [0;10;1m   41.89 ms[m   from  453   samples |
+ | framerate[20;37H:     [0;10;1m   23.87 fps[m  from  453   samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.09 ms[m   from  475   samples |
+ | total time[11;37H:     [0;10;1m   41.58 ms[m   from  474   samples |
+ | framerate[12;37H:     [0;10;1m   24.05 fps[m  from  474   samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.45 ms[m   from  479   samples |
+ | total time[19;37H:     [0;10;1m   41.88 ms[m   from  477   samples |
+ | framerate[20;37H:     [0;10;1m   23.88 fps[m  from  477   samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.10 ms[m   from  499   samples |
+ | total time[11;37H:     [0;10;1m   41.58 ms[m   from  498   samples |
+ | framerate[12;37H:     [0;10;1m   24.05 fps[m  from  498   samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.42 ms[m   from  503   samples |
+ | total time[19;37H:     [0;10;1m   41.90 ms[m   from  501   samples |
+ | framerate[20;37H:     [0;10;1m   23.87 fps[m  from  501   samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.09 ms[m   from  524   samples |
+ | total time[11;37H:     [0;10;1m   41.59 ms[m   from  522   samples |
+ | framerate[12;37H:     [0;10;1m   24.04 fps[m  from  522   samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.41 ms[m   from  527   samples |
+ | total time[19;37H:     [0;10;1m   41.87 ms[m   from  526   samples |
+ | framerate[20;37H:     [0;10;1m   23.88 fps[m  from  526   samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.10 ms[m   from  548   samples |
+ | total time[11;37H:     [0;10;1m   41.59 ms[m   from  546   samples |
+ | framerate[12;37H:     [0;10;1m   24.04 fps[m  from  546   samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.43 ms[m   from  551   samples |
+ | total time[19;37H:     [0;10;1m   41.86 ms[m   from  550   samples |
+ | framerate[20;37H:     [0;10;1m   23.89 fps[m  from  550   samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.10 ms[m   from  572   samples |
+ | total time[11;37H:     [0;10;1m   41.60 ms[m   from  571   samples |
+ | framerate[12;37H:     [0;10;1m   24.04 fps[m  from  571   samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.44 ms[m   from  576   samples |
+ | total time[19;37H:     [0;10;1m   41.86 ms[m   from  574   samples |
+ | framerate[20;37H:     [0;10;1m   23.89 fps[m  from  574   samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.11 ms[m   from  596   samples |
+ | total time[11;37H:     [0;10;1m   41.60 ms[m   from  595   samples |
+ | framerate[12;37H:     [0;10;1m   24.04 fps[m  from  595   samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.46 ms[m   from  600   samples |
+ | total time[19;37H:     [0;10;1m   41.85 ms[m   from  598   samples |
+ | framerate[20;37H:     [0;10;1m   23.90 fps[m  from  598   samples |
+ +--------------------------------------------------------------------------+[H[J
+ +--------------------------------------------------------------------------+
+ | Object Detection Demo[3;77H|
+ +--------------------------------------------------------------------------+
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video4[6;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[7;77H|
+ | Model Type: detection[8;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[10;37H:     [0;10;1m    6.11 ms[m   from  620   samples |
+ | total time[11;37H:     [0;10;1m   41.60 ms[m   from  619   samples |
+ | framerate[12;37H:     [0;10;1m   24.04 fps[m  from  619   samples |
+ +--------------------------------------------------------------------------+
+ | Input Src: /dev/video2[14;77H|
+ | Model Name: TFL-OD-2020-ssdLite-mobDet-DSP-coco-320x320[15;77H|
+ | Model Type: detection[16;77H|
+ +--------------------------------------------------------------------------+
+ | dl-inference[18;37H:     [0;10;1m    8.46 ms[m   from  624   samples |
+ | total time[19;37H:     [0;10;1m   41.84 ms[m   from  622   samples |
+ | framerate[20;37H:     [0;10;1m   23.90 fps[m  from  622   samples |
+ +--------------------------------------------------------------------------+==========[INPUT PIPELINE(S)]==========
+
+[PIPE-0]
+
+v4l2src device=/dev/video4 brightness=128 contrast=32 saturation=32 ! capsfilter caps="image/jpeg, width=(int)1280, height=(int)960;" ! jpegdec ! tiovxdlcolorconvert ! capsfilter caps="video/x-raw, format=(string)NV12;" ! tiovxmultiscaler name=split_01
+split_01. ! queue ! capsfilter caps="video/x-raw, width=(int)800, height=(int)600;" ! tiovxdlcolorconvert out-pool-size=4 target=1 ! capsfilter caps="video/x-raw, format=(string)RGB;" ! appsink max-buffers=2 drop=True name=sen_0
+split_01. ! queue ! capsfilter caps="video/x-raw, width=(int)320, height=(int)320;" ! tiovxdlpreproc out-pool-size=4 channel-order=1 data-type=3 ! capsfilter caps="application/x-tensor-tiovx;" ! appsink max-buffers=2 drop=True name=pre_0
+
+
+[PIPE-1]
+
+v4l2src device=/dev/video2 ! capsfilter caps="video/x-raw, width=(int)640, height=(int)512, format=(string)NV12;" ! tiovxmultiscaler name=split_11
+split_11. ! queue ! capsfilter caps="video/x-raw, width=(int)640, height=(int)512;" ! tiovxdlcolorconvert out-pool-size=4 target=1 ! capsfilter caps="video/x-raw, format=(string)RGB;" ! appsink max-buffers=2 drop=True name=sen_1
+split_11. ! queue ! capsfilter caps="video/x-raw, width=(int)320, height=(int)320;" ! tiovxdlpreproc out-pool-size=4 target=1 channel-order=1 data-type=3 ! capsfilter caps="application/x-tensor-tiovx;" ! appsink max-buffers=2 drop=True name=pre_1
+
+
+==========[OUTPUT PIPELINE]==========
+
+appsrc do-timestamp=True format=3 block=True name=post_0 ! tiovxdlcolorconvert ! capsfilter caps="video/x-raw, format=(string)NV12, width=(int)800, height=(int)600;" ! queue ! mosaic_0.sink_0
+
+appsrc do-timestamp=True format=3 block=True name=post_1 ! tiovxdlcolorconvert ! capsfilter caps="video/x-raw, format=(string)NV12, width=(int)640, height=(int)512;" ! queue ! mosaic_0.sink_1
+
+tiovxmosaic target=1 background=/tmp/background_0 name=mosaic_0
+sink_0::startx="<640>" sink_0::starty="<120>" sink_0::widths="<800>" sink_0::heights="<600>"
+sink_1::startx="<0>" sink_1::starty="<120>" sink_1::widths="<640>" sink_1::heights="<512>"
+! capsfilter caps="video/x-raw, format=(string)NV12, width=(int)1600, height=(int)900;" ! kmssink sync=False max-lateness=5000000 qos=True processing-deadline=15000000 driver-name=tidss connector-id=39 plane-id=40
+
+[67;1H  1392.358646 s:  VX_ZONE_INIT:[tivxHostDeInitLocal:107] De-Initialization Done for HOST !!!
+  1392.363278 s:  VX_ZONE_INIT:[tivxDeInitLocal:223] De-Initialization Done !!!
+APP: Deinit ... !!!
+REMOTE_SERVICE: Deinit ... !!!
+REMOTE_SERVICE: Deinit ... Done !!!
+IPC: Deinit ... !!!
+IPC: DeInit ... Done !!!
+MEM: Deinit ... !!!
+DDR_SHARED_MEM: Alloc's: 142 alloc's of 147165888 bytes 
+DDR_SHARED_MEM: Free's : 142 free's  of 147165888 bytes 
+DDR_SHARED_MEM: Open's : 0 allocs  of 0 bytes 
+DDR_SHARED_MEM: Total size: 536870912 bytes 
+MEM: Deinit ... Done !!!
+APP: Deinit ... Done !!!
